@@ -12,11 +12,11 @@ Talks by Friendzymes team members include:
 
 ## Supplemental Links: Scott Pownall
 
-* [Friendzymes Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSc81jR2hgHnX4Cj7WUPiauWSsDsYtpSGddKyGs8ctffEm28dw/viewform)
-* [openbiofoundry.org](https://openbiofoundry.org/)
-* [Public Domain Gazette](https://publicdomaingazette.org/about/)
-* [Reagent Collaboration Network – a global collaboration for equitable access to biotechnology](https://reclone.org/)
-* [The FreeGenes Project – stanford.freegenes.org](https://stanford.freegenes.org/)
+- [Friendzymes Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSc81jR2hgHnX4Cj7WUPiauWSsDsYtpSGddKyGs8ctffEm28dw/viewform)
+- [openbiofoundry.org](https://openbiofoundry.org/)
+- [Public Domain Gazette](https://publicdomaingazette.org/about/)
+- [Reagent Collaboration Network – a global collaboration for equitable access to biotechnology](https://reclone.org/)
+- [The FreeGenes Project – stanford.freegenes.org](https://stanford.freegenes.org/)
 
 ## Supplemental Links: Isaac Larkin
 
@@ -29,3 +29,9 @@ Talks by Friendzymes team members include:
 - [iGEM Team Wetware Page](https://2021.igem.org/Team:Open_Science_Global/Wetware)
 - [Friendzymes GitHub Repo showing how we optimize the sequences of our genetic parts](https://github.com/friendzymes/friendzymes-cookbook)
 - [One of Isaac G.'s Colab notebooks showing how to remove repetitive sequences from a CDS with Poly](https://drive.google.com/file/d/1NGDMQi-OGV5-XAbOgz87JWtSc4l2hHyh/view?usp=sharing)
+
+## Supplemental Links: Sana Jalili
+
+- [Friendzymes Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSc81jR2hgHnX4Cj7WUPiauWSsDsYtpSGddKyGs8ctffEm28dw/viewform)
+- [Check out our links on Linktree](https://linktr.ee/friendzymes)
+- [Get in touch by email](mailto:friendzymes@gmail.com)
