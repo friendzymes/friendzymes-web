@@ -19,3 +19,13 @@ Talks by Friendzymes team members include:
 * [The FreeGenes Project – stanford.freegenes.org](https://stanford.freegenes.org/)
 
 ## Supplemental Links: Isaac Larkin
+
+- [Open Yeast Collection on FreeGenes](https://stanford.freegenes.org/collections/organismal-development-kits/products/open-yeast-toolkit#bionet)
+  - [Spreadsheet describing the Open Yeast Collection](https://docs.google.com/spreadsheets/d/1hhiKwaTJyWajH1fEUxZ_79DP4TRtlCBLvO6EtcqtxeY/edit?usp=sharing)
+- [Protein Expression Toolkit on FreeGenes](https://stanford.freegenes.org/collections/organismal-development-kits/products/expression-tookit#bionet)
+  - [Spreadsheet describing the Protein Expression Toolkit](https://docs.google.com/spreadsheets/d/1uUS6TaIy0YuT8W7hdeonu0NSpAHinieyPcvgZRG1Nos/edit?usp=sharing)
+- [Bsub SecTag Library Plasmids on FreeGenes](https://stanford.freegenes.org/products/b-subtilis-protein-secretion-toolkit#bionet)
+  - [RFC Describing Library Plasmids](https://docs.google.com/document/d/1ptmq1zLFCtiZmf-us9ZzjPV1968A7Nu1pkAW1Itzyzw/edit?usp=sharing)
+- [iGEM Team Wetware Page](https://2021.igem.org/Team:Open_Science_Global/Wetware)
+- [Friendzymes GitHub Repo showing how we optimize the sequences of our genetic parts](https://github.com/friendzymes/friendzymes-cookbook)
+- [One of Isaac G.'s Colab notebooks showing how to remove repetitive sequences from a CDS with Poly](https://drive.google.com/file/d/1NGDMQi-OGV5-XAbOgz87JWtSc4l2hHyh/view?usp=sharing)
